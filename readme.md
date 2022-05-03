@@ -6,7 +6,7 @@ Another developer that thinks this feature is cool?
 #### F4ck yourself
 
 ```http
-  GET /fuck/me
+  POST /fuck/me
 ```
 
 | Parameter | Type     | Description                |
